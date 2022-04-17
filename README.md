@@ -1,1 +1,7 @@
-# All-file
+#include<<iostream>>
+main()
+{
+
+
+
+}
